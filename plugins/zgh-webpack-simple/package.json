@@ -1,0 +1,26 @@
+{
+  "name": "zgh-webpack-simple",
+  "version": "1.0.1",
+  "keywords": [
+    "webpack",
+    "simple",
+    "program"
+  ],
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "homepage": "",
+  "bugs": "",
+  "bin": [
+    "bin/zgh-webpack-simple"
+  ],
+  "description": "front simple program to do test.",
+  "main": "index.js",
+  "author": "ch-zgh-1993",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
