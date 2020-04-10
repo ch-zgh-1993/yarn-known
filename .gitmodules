@@ -1,0 +1,3 @@
+[submodule "plugins/zgh-webpack-simple"]
+	path = plugins/zgh-webpack-simple
+	url = git@github.com:ch-zgh-1993/webpack-simple.git
