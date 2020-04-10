@@ -14,5 +14,13 @@
     "download-git-repo": "^3.0.2",
     "inquirer": "^7.1.0",
     "ora": "^4.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch-zgh-1993/yarn-known.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ch-zgh-1993/yarn-known/issues"
+  },
+  "homepage": "https://github.com/ch-zgh-1993/yarn-known/blob/master/README.md"
 }
